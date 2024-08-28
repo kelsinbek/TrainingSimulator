@@ -7,9 +7,16 @@
 - Выбор всех алгоритмов
 - Визуализация процесса сортировки в реальном времени
 
+
   
 ![Alt text](img/main_page.png)
+
+
+
 ![Alt text](img/second_page.png)
+
+
+
 ![Alt text](img/third_page.png)
 ### Алгоритмы
 ##### Cocktail Sort
