@@ -6,9 +6,11 @@
 - Генерация чисел для сортировки 
 - Выбор всех алгоритмов
 - Визуализация процесса сортировки в реальном времени
-![Alt text](img/main_page)
-![Alt text](img/second_page)
-![Alt text](img/third_page)
+
+  
+![Alt text](img/main_page.png)
+![Alt text](img/second_page.png)
+![Alt text](img/third_page.png)
 ### Алгоритмы
 ##### Cocktail Sort
 - Этот алгоритм является двунаправленным вариантом пузырьковой сортировки. Элементы перемещаются по массиву в обоих направлениях, пока не отсортируются.
